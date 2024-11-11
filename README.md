@@ -1,6 +1,5 @@
 # Weather App with Spring Boot and Caching with Redis
 
-# Weather App with Spring Boot and Redis Caching
 
 This project is a simple Weather App built with Spring Boot that fetches real-time weather data from the RapidAPI Weather API. It incorporates caching with Redis to optimize performance by reducing API calls for frequently requested weather data.
 
